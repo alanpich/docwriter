@@ -1,0 +1,9 @@
+title: DocWriter User Guide
+copyright: 2016, Alan Pich
+author: Alan Pich <alan.pich@gmail.com>
+
+outline:
+  - Introduction
+  - Configuration:
+    - Config_schema
+  - Markdown

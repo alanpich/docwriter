@@ -1,0 +1,15 @@
+{
+  "name": "docwriter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/docwriter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.7.0",
+    "remarkable": "^1.7.1"
+  }
+}
